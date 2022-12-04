@@ -10,4 +10,4 @@ For those readers who are not familar with Scala and Spark, we provide a matlab 
 run driver.scala
 ```
 ## FAQ
-When you run this code, it may suffer StackOverFlow error. I suggest you set RAM with -Xss4m or -Xss8m 
+When you run this code, it may suffer StackOverFlow error. I suggest you to set RAM with -Xss4m or -Xss8m 
